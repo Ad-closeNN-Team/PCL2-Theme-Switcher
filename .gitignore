@@ -1,0 +1,10 @@
+.git
+PCL2 Theme Switcher/*
+PCL/*
+.vscode
+test.py
+need get.ini
+build/*
+dist/*
+main.spec
+*.exe
